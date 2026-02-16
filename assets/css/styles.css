@@ -494,7 +494,6 @@ section.visible {
   .container {
     padding: 80px 20px;
   }
-}
 
 @media (max-width: 480px) {
 
@@ -663,8 +662,9 @@ section.visible {
 }
 
 .ministries-hero {
-  background: url("../images/for-vallejo-community-1920x1080.jpg") center/cover no-repeat;
+  background: url("../images/community-multigenerational-1600x900.jpg") center/cover no-repeat;
 }
+
 
 .page-overlay {
   position: absolute;
@@ -771,7 +771,7 @@ section.visible {
 /* ============================= */
 
 .events-hero {
-  background: url("../images/for-vallejo-community-1920x1080.jpg") center/cover no-repeat;
+  background: url("../images/community-multigenerational-1600x900.jpg") center/cover no-repeat;
 }
 
 /* Featured Event */
